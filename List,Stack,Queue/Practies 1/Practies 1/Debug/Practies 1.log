@@ -1,0 +1,22 @@
+﻿  dynamic_array.cpp
+  main.cpp
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\dynamic_array.h(79,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\dynamic_array.h(72): message : 클래스 템플릿 멤버 함수 'std::string dynamic_array<student>::to_string(const std::string &)'을(를) 컴파일하는 중입니다.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\main.cpp(32): message : 컴파일되는 함수 템플릿 인스턴스화 'std::string dynamic_array<student>::to_string(const std::string &)'에 대한 참조를 확인하세요.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\main.cpp(10): message : 컴파일되는 클래스 템플릿 인스턴스화 'dynamic_array<student>'에 대한 참조를 확인하세요.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\dynamic_array.h(40,13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\dynamic_array.h(39): message : 클래스 템플릿 멤버 함수 'T &dynamic_array<T>::at(int)'을(를) 컴파일하는 중입니다.
+          with
+          [
+              T=student
+          ]
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\main.cpp(23): message : 컴파일되는 함수 템플릿 인스턴스화 'T &dynamic_array<T>::at(int)'에 대한 참조를 확인하세요.
+          with
+          [
+              T=student
+          ]
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\dynamic_array.h(25,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\dynamic_array.h(21): message : 클래스 템플릿 멤버 함수 'dynamic_array<student>::dynamic_array(const dynamic_array<student> &)'을(를) 컴파일하는 중입니다.
+C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Practies 1\main.cpp(31): message : 컴파일되는 함수 템플릿 인스턴스화 'dynamic_array<student>::dynamic_array(const dynamic_array<student> &)'에 대한 참조를 확인하세요.
+  코드를 생성하고 있습니다...
+  Practies 1.vcxproj -> C:\Users\Pocari\Desktop\Data_structure-Algorithm\List,Stack,Queue\Practies 1\Debug\Practies 1.exe
